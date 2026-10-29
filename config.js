@@ -3,8 +3,8 @@
  * The anon key is meant to be public (it is safe here because Row Level Security protects the data).
  * NEVER put the "service_role" / secret key in this file. */
 window.PAHINA = {
-  SUPABASE_URL: 'https://qclknjgqjtbduptzxdhh.supabase.co',
-  SUPABASE_ANON_KEY: 'sb_publishable_cPkYHDeofFvkKNJVM0FH6w_XEnKeFFI',
+  SUPABASE_URL: 'https://objuumfpjpgujaggeyyo.supabase.co',
+  SUPABASE_ANON_KEY: 'sb_publishable_rE4GW3pEBGWGKb3jxm1d9A_UKMQgN4n',
 
   SITE_NAME: "PAHINA Book Lovers' Club",
   SCHOOL_NAME: 'Your School / Campus Name, City, Philippines',
